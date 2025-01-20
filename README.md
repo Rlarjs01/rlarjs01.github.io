@@ -16,6 +16,6 @@
 
 ## 2. Unity 프로젝트
 - **사용 기술**: Unity 3D, C#, C++
-- [프로젝트 코드 (GitHub - Magnet)](https://github.com/Rlarjs01/magnet) 
+- **[프로젝트 코드 (GitHub - Magnet)](https://github.com/Rlarjs01/magnet)**
 - **[시연 영상 (YouTube)](https://www.youtube.com/watch?v=CEXjVT-oWLc\&ab_channel=Chira)**
 
